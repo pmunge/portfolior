@@ -33,6 +33,7 @@
 
 /* Style the main container */
 .main {
+    background-color: rgb(0, 191, 255);
     display: flex; /* Use flexbox */
     align-items: center; /* Center vertically */
 }
