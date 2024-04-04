@@ -28,6 +28,10 @@
     background-color: #ddd; 
     color: black; 
 }
+
+.navbar ul li a:active{
+    background-color: rgb(0, 191, 255);
+}
 /* css for image and info */
 /* home.css */
 
